@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<SaveDataBundle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <m_Cash>5</m_Cash>
+  <totalDeliveriesCompleted>0</totalDeliveriesCompleted>
+  <totalTimePlayed>0</totalTimePlayed>
+  <globalAudio>1</globalAudio>
+  <musicAudio>1</musicAudio>
+  <sfxAudio>1</sfxAudio>
+  <muted>false</muted>
+  <hasDoneTutorial>false</hasDoneTutorial>
+</SaveDataBundle>
